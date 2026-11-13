@@ -168,9 +168,6 @@ Desenvolvimento dos arquivos "regras.py" e "formulas.py" em um projeto acadêmic
 
 ---
 
-📈 Estatísticas do GitHub
-
-
 ## 📈 Minha atividade no GitHub
 
 <div align="center">
