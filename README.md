@@ -170,7 +170,17 @@ Desenvolvimento dos arquivos "regras.py" e "formulas.py" em um projeto acadêmic
 
 📈 Estatísticas do GitHub
 
-<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=StefaniNeves&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefaniNeves&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais utilizadas"><img width="90%" src="https://streak-stats.demolab.com?user=StefaniNeves&theme=radical&hide_border=true" alt="Sequência de contribuições"></div>---
+
+## 📈 Minha atividade no GitHub
+
+<div align="center">
+  <img
+    width="90%"
+    src="https://streak-stats.demolab.com?user=StefaniNeves&theme=radical&hide_border=true"
+    alt="Minha sequência de contribuições no GitHub"
+  />
+</div>
+
 
 🌷 Além da programação
 
