@@ -67,7 +67,7 @@ Tecnologias e recursos:
 - Classificação de solicitações.
 - Retorno estruturado em JSON.
 
-🔗 "Conhecer o projeto" (https://github.com/StefaniNeves/Portfolio-ai-Builder/tree/main/02_automacao_triagem_ia)
+🔗 "Conhecer o projeto" (https://github.com/StefaniNeves/Portfolio-ai-Builder/tree/main/02_automacao_triagem_n8n)
 
 ---
 
